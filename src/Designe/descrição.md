@@ -21,9 +21,9 @@ analize do projeto
 # 4 etapa 
 Criação do css
 
-- Font family ![Kumbh Sans](https://fonts.google.com/specimen/Kumbh+Sans)
+- [x] Font family ![Kumbh Sans](https://fonts.google.com/specimen/Kumbh+Sans)
 
-- Font weights: 400, 700
+- [x] Font weights: 400, 700
 
 
 ## Colors 
@@ -34,18 +34,21 @@ Cores para utilização :
 --text-color: hsl(227, 10%, 46%); 
  ``` 
 
-
-## Layout
-
-- Mobile: 375px
-- Desktop: 1440px
-
 ### Body Copy
 
-- Font size (name and stats): 18px
+- [x] Font size (name and stats): 18px
 
 <div align="center">
 
     ![Imagem responsiva](./mobile.pngmobile.png)
     
 </div>
+
+## organizar elementos
+
+-[]
+
+## Layout
+
+- Mobile: 375px
+- Desktop: 1440px
