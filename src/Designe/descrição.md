@@ -28,6 +28,7 @@ Criação do css
 
 ## Colors 
 Cores para utilização : 
+- [x]
 ``` 
 --background-color: hsl(185, 75%, 39%);
 --text-color: hsl(227, 10%, 46%); 
