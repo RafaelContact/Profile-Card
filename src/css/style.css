@@ -25,19 +25,27 @@ main{
 }
 header{
     background-color: blue;
+    min-width: 340px;
 }
-ul{
-    height: 200px;
-    background-color: red;
+.list{
+    min-width: 340px;
+    /* height: 200px; */
+    /* background-color: red; */
     display: flex;
+    justify-content: space-around;
 
 }
 li{
-    justify-content: flex-start;
-    background-color: green;
-    border: 1px solid black;
-}
-ul .text{
-    align-self: flex-end;
+    flex-wrap: wrap;
+    max-width: 60px;
 
+    justify-content: center;
+
+
+    /* background-color: green; */
+    /* border: 1px solid black; */
+    text-align: center;
+}
+li .text{
+    align-self: flex-end;
 }
