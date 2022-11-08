@@ -1,51 +1,17 @@
 body{
     font-family: 'Kumbh Sans', sans-serif;
-    background-color: var(--background-color);
 }
-h1{
-    font-size: 18px;
-    font-weight: 700;
-}
-.stats{
-    font-size: 18px;
-    font-weight: 700;
-}
-.text-age{
-    font-weight: 700;
-}
-.text{
-    font-weight: 400;
-    color: var(--text-color);
-}
-main{
+/* ======== CONTAINER ========== */
+.main{
     display: flex;
-    flex-direction: column;
-    align-items: center;
-    min-width: 350px;
-}
-header{
-    background-color: blue;
-    min-width: 340px;
-}
-.list{
-    min-width: 340px;
-    /* height: 200px; */
-    /* background-color: red; */
-    display: flex;
-    justify-content: space-around;
-
-}
-li{
-    flex-wrap: wrap;
-    max-width: 60px;
-
     justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    background-color: var(--background-color);
 
+}
+.container{
+    background-color: white;
+}
 
-    /* background-color: green; */
-    /* border: 1px solid black; */
-    text-align: center;
-}
-li .text{
-    align-self: flex-end;
-}
