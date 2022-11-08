@@ -12,11 +12,11 @@ analize do projeto
 
 # 2 etapa 
 
-Organização das pastas
+- [x]  Organização das pastas
 
 # 3 etapa
 
-criação do html
+- [x] criação do html
 
 # 4 etapa 
 Criação do css
