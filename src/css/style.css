@@ -36,21 +36,21 @@ figure{
     
 } 
 
-h1{
+.title{
     font-size: 18px;
     font-weight: 700;
 }
-.text-age{
-    color: var(--text-color);
-    font-weight: 200;
+.text.age{
+    color: var(--text-color, red);
+    font-weight: 400;
+
 }
+
 .text .p {
     
     /* flex-grow: 3; */
     background-color: red;
     border: 1px solid black;
-
-
 }
 
 /* =========== ul -========== */
