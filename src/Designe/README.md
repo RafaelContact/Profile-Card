@@ -8,7 +8,7 @@ analize do projeto
 
 * Pixel perfect não precisa ser exatamente seguido com a responsividade agora.
 
-- [] os tamanhos não foram informados, então será preciso usar a exençao do navegador para descobrir 
+- [x] os tamanhos não foram informados, então será preciso usar a exençao do navegador para descobrir 
 
 # 2 etapa 
 
@@ -46,9 +46,7 @@ Cores para utilização :
 
 ## organizar elementos
 
--[]
-
-## Layout
+ Layout
 
 - Mobile: 375px
 - Desktop: 1440px
